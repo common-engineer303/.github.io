@@ -14,4 +14,3 @@ permalink: /about/
 2024年4月: 小規模のWeb開発企業に入社（Python, AWS）  
 2024年10月: 派遣会社経由で大企業の自動化チームに参画  
 （Terraform, Ansible, GitHub Actions, Google Cloud, etc...）  
-
