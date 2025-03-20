@@ -1,6 +1,3 @@
----
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+# HOME
 
-layout: home
----
+[来歴](contents/2025-03-20_about-me.md)
